@@ -49,33 +49,6 @@ I'm **Nithikorn**, a student developer interested in software engineering, probl
 
 </div>
 
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[POSN Mock Test ↗](https://posnmocktest.vercel.app/)**
-
-A practice-focused web project built around learning and computer science preparation.
-
-<sub>Web development · Learning tools</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Cute Calendar ↗](https://cute-cal.vercel.app/home)**
-
-A personal productivity concept bringing planning and study routines into one interface.
-
-<sub>Productivity · UI design</sub>
-
-</td>
-</tr>
-</table>
-
-More work and experiments are available in the [repositories](https://github.com/N01SX?tab=repositories).
-
 ## GitHub Activity
 
 <div align="center">
