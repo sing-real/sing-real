@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#191919"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="4" fill="url(#fade)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle cx="1020" cy="150" r="164" stroke="#FFFFFF" stroke-opacity=".09"/>
+  <circle cx="1020" cy="150" r="124" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <circle cx="1020" cy="150" r="84" stroke="#FFFFFF" stroke-opacity=".16"/>
+  <path d="M856 150H1184M1020 -14V314" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <path d="M72 56H126" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="72" y="45" fill="#BDBDBD" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">NITHIKORN  /  DEVELOPER IN PROGRESS</text>
+  <text x="68" y="166" fill="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">BUILD WITH INTENT.</text>
+  <text x="72" y="208" fill="#B0B0B0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="2">SOFTWARE  ·  SYSTEMS  ·  PROBLEM SOLVING</text>
+  <text x="72" y="278" fill="#707070" font-family="monospace" font-size="12" letter-spacing="2">C++ / WEB / LINUX</text>
+  <text x="1128" y="278" fill="#707070" font-family="monospace" font-size="12" text-anchor="end">N01SX</text>
+</svg>
