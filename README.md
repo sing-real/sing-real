@@ -4,7 +4,7 @@
 
 <br/>
 
-[GitHub](https://github.com/N01SX) &nbsp;·&nbsp; [Repositories](https://github.com/N01SX?tab=repositories)
+[GitHub](https://github.com/sing-real) &nbsp;·&nbsp; [Repositories](https://github.com/sing-real?tab=repositories)
 
 </div>
 
@@ -53,8 +53,8 @@ I'm **Nithikorn**, a student developer interested in software engineering, probl
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=N01SX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N01SX&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&langs_count=8" alt="Most used languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sing-real&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sing-real&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&langs_count=8" alt="Most used languages" />
 
 </div>
 
