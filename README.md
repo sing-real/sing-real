@@ -12,9 +12,8 @@
 
 ## About
 
-I'm **Nithikorn**, a student developer interested in software engineering, problem solving, and Linux. I learn by building practical projects, exploring how systems work, and improving the details along the way.
-
-**Currently focused on:** C++ and algorithms · full-stack web development · Linux systems
+I'm **Nithikorn**, a student developer interested in software engineering, computer sci, and learning.
+**Currently focused on:** Competitive Programming and Self-productive
 
 ## Tech Stack
 
