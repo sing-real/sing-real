@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="./assets/profile-banner.svg" width="100%" alt="Nithikorn — Build with intent" />
-
-<br/>
-
-[GitHub](https://github.com/sing-real) &nbsp;·&nbsp; [Repositories](https://github.com/sing-real?tab=repositories)
-
-</div>
-
----
-
 ## About
 
 I'm **Nithikorn**, a student developer interested in software engineering, computer sci, and learning.
